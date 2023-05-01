@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad5d71af-2788-41e8-ab21-222aa9e997c4" name="Changes" comment="Added tasks 68 - 75">
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="ad5d71af-2788-41e8-ab21-222aa9e997c4" name="Changes" comment="Added tasks 75 - 84 and file main tasks with libraries">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trial_tasks_solving.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trial_tasks_solving.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682103278053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added tasks 75 - 84 and file main tasks with libraries">
+      <created>1682702948873</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1682702948873</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +94,7 @@
     <MESSAGE value="Here, I will add all my task" />
     <MESSAGE value="Added tasks 65 - 67" />
     <MESSAGE value="Added tasks 68 - 75" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added tasks 68 - 75" />
+    <MESSAGE value="Added tasks 75 - 84 and file main tasks with libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tasks 75 - 84 and file main tasks with libraries" />
   </component>
 </project>
