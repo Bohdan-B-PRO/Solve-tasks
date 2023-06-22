@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ad5d71af-2788-41e8-ab21-222aa9e997c4" name="Changes" comment="Added tasks 101 - 108">
-      <change afterPath="$PROJECT_DIR$/Review_Code.py" afterDir="false" />
+    <list default="true" id="ad5d71af-2788-41e8-ab21-222aa9e997c4" name="Changes" comment="Added tasks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Trial_tasks_solving.py" beforeDir="false" afterPath="$PROJECT_DIR$/Trial_tasks_solving.py" afterDir="false" />
     </list>
@@ -98,7 +97,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683728775287</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Added tasks">
+      <created>1687179720166</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1687179720166</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,6 +126,7 @@
     <MESSAGE value="Added tasks 84 - 94 and file main tasks with libraries" />
     <MESSAGE value="Added tasks 94 - 101" />
     <MESSAGE value="Added tasks 101 - 108" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added tasks 101 - 108" />
+    <MESSAGE value="Added tasks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added tasks" />
   </component>
 </project>
